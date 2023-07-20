@@ -1,3 +1,4 @@
+#Propperty of JacquesStrydom94#
 from flask import Flask, request, render_template, jsonify
 import json
 import os
